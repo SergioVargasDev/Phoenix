@@ -27,6 +27,14 @@ Phoenix is a 3D warehouse automation software developed for E80, designed to aut
 •⁠  ⁠*FastAPI:* Provides real-time interaction between backend components and the simulation.
 •⁠  ⁠*Unity:* Used to create a 3D simulation environment for visualizing LGV tasks in real time.
 
+## Contribution
+
+### To E80 Group
+Phoenix significantly improves operational efficiency by automating LGV workflows such as unloading, storing, and reloading trucks. The A* Search Algorithm ensures optimized LGV navigation, while real-time monitoring and collision avoidance maintain continuous workflows.
+
+### To Warehouse Operations
+Phoenix provides a robust simulation tool to test operational scenarios with customizable LGV and warehouse parameters. Its integration of cutting-edge technology and advanced algorithms reduces human intervention, enhancing overall efficiency and reliability in warehouse environments.
+
 ## How to Run
 
 ### Prerequisites
