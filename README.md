@@ -1,5 +1,9 @@
 # Phoenix - E80 Autonomous Warehouse Solution
-July 2024 - September 2024
+<div align = "center">
+  <img src = "images/Phoenix_collaborators.jpg" width = "518", >
+</div>
+
+
 
 ## Overview
 Phoenix is a 3D warehouse automation solution developed for E80 Group, designed to streamline LGV (Laser-Guided Vehicle) operations, including unloading, storage, and truck reloading. By leveraging Unity and C# for real-time simulations, along with Python and FastAPI for backend workflows, Phoenix reduces human intervention and optimizes warehouse efficiency through advanced pathfinding and automation.
@@ -23,7 +27,3 @@ Unity (C#): 3D modeling and visualization of LGV tasks.
 Mesa Library: LGV behavior modeling and interaction simulations.
 ### Algorithm
 A Search Algorithm*: Efficient and collision-free pathfinding for autonomous LGVs.
-
-<div align = "center">
-  <img src = "images/Phoenix_collaborators.jpg" width = "518", >
-</div>
