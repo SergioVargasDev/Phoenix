@@ -35,4 +35,4 @@ A Search Algorithm*: Efficient and collision-free pathfinding for autonomous LGV
   <img src = "images/menu.jpg" width = 412>
 </div>
 
-<img src = "images/unitySim" width = "412"> <img src = "images/mesaSim" width = "412"> 
+<img src = "images/unitySim.jpg" width = "412"> <img src = "images/mesaSim.jpg" width = "412"> 
