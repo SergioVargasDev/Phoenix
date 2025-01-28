@@ -25,5 +25,5 @@ Mesa Library: LGV behavior modeling and interaction simulations.
 A Search Algorithm*: Efficient and collision-free pathfinding for autonomous LGVs.
 
 <div align = "center">
-  <img src = "images/Phoenix_collaborators.jpg" width = "420">
+  <img src = "images/Phoenix_collaborators.jpg" width = "518", >
 </div>
