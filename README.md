@@ -32,5 +32,5 @@ A Search Algorithm*: Efficient and collision-free pathfinding for autonomous LGV
 
 ### Home
 <div align = "center">
-  <img src = "images/menu.jpg width = 412>
+  <img src = "images/menu.jpg" width = 412>
 </div>
