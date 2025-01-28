@@ -27,3 +27,10 @@ Unity (C#): 3D modeling and visualization of LGV tasks.
 Mesa Library: LGV behavior modeling and interaction simulations.
 ### Algorithm
 A Search Algorithm*: Efficient and collision-free pathfinding for autonomous LGVs.
+
+## Phoenix Demo
+
+### Home
+<div align = "center">
+  <img src = "images/menu.jpg width = 412>
+</div>
