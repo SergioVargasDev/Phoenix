@@ -15,13 +15,13 @@ Phoenix revolutionizes warehouse management by automating LGV operations to impr
 * Seamless Integration: FastAPI facilitates smooth communication between backend systems and LGV models.
 ## Technology Stack
 ### Backend
-Python: Core logic and workflow management.
-FastAPI: Communication between components for real-time operations.
+* Python: Core logic and workflow management.
+* FastAPI: Communication between components for real-time operations.
 ### Simulation
-Unity (C#): 3D modeling and visualization of LGV tasks.
-Mesa Library: LGV behavior modeling and interaction simulations.
+* Unity (C#): 3D modeling and visualization of LGV tasks.
+* Mesa Library: LGV behavior modeling and interaction simulations.
 ### Algorithm
-A Search Algorithm*: Efficient and collision-free pathfinding for autonomous LGVs.
+* A Search Algorithm*: Efficient and collision-free pathfinding for autonomous LGVs.
 
 ## Phoenix Demo
 
