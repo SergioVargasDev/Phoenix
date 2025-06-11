@@ -22,23 +22,7 @@ Phoenix revolutionizes warehouse management by automating LGV operations to impr
 * Mesa Library: LGV behavior modeling and interaction simulations.
 ### Algorithm
 * A* Search Algorithm: Efficient and collision-free pathfinding for autonomous LGVs.
-
-## Phoenix Demo
-
-### Home
-<div align = "center">
-  <img src = "images/menu.jpg" width = 412>
-</div>
-
-### Unity/Mesa 1st Simulation Frame
-<img src = "images/unitySim.jpg" width = "412"> <img src = "images/mesaSim.jpg" width = "412"> 
-
-### Unity/Mesa 2nd Simulation Frame
-<img src = "images/unitySim2.jpg" width = "412"> <img src = "images/mesaSim2.jpg" width = "412"> 
-
-### Unity/Mesa 3rd Simulation Frame
-<img src = "images/unitySim3.jpg" width = "412"> <img src = "images/mesaSim3.jpg" width = "412"> 
-
+* 
 ## Team
 
 <div align = "center">
