@@ -25,8 +25,3 @@ Phoenix is a warehouse automation system developed for E80 Group to manage LGV (
 ### Algorithms
 - **A* Search Algorithm** – High-efficiency pathfinding with dynamic route optimization.
 
-## Team
-
-<div align="center">
-  <img src="images/Phoenix_collaborators.jpg" width="518" />
-</div>
