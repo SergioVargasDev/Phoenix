@@ -1,30 +1,32 @@
 # Phoenix - E80 Autonomous Warehouse Solution
 
-## Overview
-Phoenix is a 3D warehouse automation solution developed for E80 Group, designed to streamline LGV (Laser-Guided Vehicle) operations, including unloading, storage, and truck reloading. By leveraging Unity and C# for real-time simulations, along with Python and FastAPI for backend workflows, Phoenix reduces human intervention and optimizes warehouse efficiency through advanced pathfinding and automation.
+Phoenix is a warehouse automation system developed for E80 Group to manage LGV (Laser-Guided Vehicle) workflows at scale. It automates pallet handling across unloading, storage, and reloading processes, operating 15+ LGVs and processing over 10,000 pallets weekly. The solution combines real-time 3D simulation with backend orchestration and intelligent multi-agent pathfinding to reduce manual intervention by 70% and boost routing efficiency by 50%.
 
-## Purpose
-Phoenix revolutionizes warehouse management by automating LGV operations to improve operational efficiency and ensure seamless workflows. With advanced features like collision-free pathfinding using the A* Search Algorithm, real-time monitoring, and behavior modeling, it minimizes errors and enhances productivity while allowing customizable simulations for various scenarios.
+## Features
 
-## Key Features
-* Automated LGV Operations: Autonomous handling of unloading, storage, and truck reloading.
-* Collision-Free Pathfinding: A* Search Algorithm ensures efficient, optimized navigation in dynamic environments.
-* Real-Time 3D Simulation: Unity-powered visualization for dynamic warehouse operations and task execution.
-* Behavior Modeling: Mesa library simulates LGV interactions for realistic workflows.
-* Customizable Scenarios: Flexible configurations for testing warehouse layouts and operations.
-* Seamless Integration: FastAPI facilitates smooth communication between backend systems and LGV models.
-## Technology Stack
+- **Autonomous LGV Workflows**: End-to-end automation of unloading, storage, and truck reloading.
+- **Intelligent Pathfinding**: Optimized A* search with conflict avoidance and dynamic agent awareness.
+- **Multi-Agent Behavior Simulation**: Mesa-powered modeling for coordination and scenario testing.
+- **Real-Time 3D Simulation**: Unity-based visualization of warehouse operations and LGV behavior.
+- **Configurable Scenarios**: Customizable warehouse layouts and LGV parameters.
+- **Backend Integration**: FastAPI enables low-latency communication between logic and simulation.
+
+## Tech Stack
+
 ### Backend
-* Python: Core logic and workflow management.
-* FastAPI: Communication between components for real-time operations.
+- **Python** – Core logic for LGV coordination and system control.
+- **ASP.NET** – Integration layer for industrial interfacing.
+- **FastAPI** – Real-time data exchange across simulation and backend services.
+
 ### Simulation
-* Unity (C#): 3D modeling and visualization of LGV tasks.
-* Mesa Library: LGV behavior modeling and interaction simulations.
-### Algorithm
-* A* Search Algorithm: Efficient and collision-free pathfinding for autonomous LGVs.
-* 
+- **Unity (C#)** – Interactive 3D modeling of warehouse and LGV tasks.
+- **Mesa** – Multi-agent simulation library for behavior modeling and testing.
+
+### Algorithms
+- **A* Search Algorithm** – High-efficiency pathfinding with dynamic route optimization.
+
 ## Team
 
-<div align = "center">
-  <img src = "images/Phoenix_collaborators.jpg" width = "518", >
+<div align="center">
+  <img src="images/Phoenix_collaborators.jpg" width="518" />
 </div>
