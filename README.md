@@ -24,7 +24,7 @@ Phoenix is a warehouse automation system developed for E80 Group to manage LGV (
 
 ### Algorithms
 - **A* Search Algorithm** – High-efficiency pathfinding with dynamic route optimization.
-- **Dijkstra’s Algorithm** – Optimal shortest-path routing for weighted graphs with guaranteed minimum cost.
+- **Dijkstra’s *Algorithm** – Optimal shortest-path routing for weighted graphs with guaranteed minimum cost.
 
 
 
