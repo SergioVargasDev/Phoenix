@@ -23,8 +23,8 @@ Phoenix is a warehouse automation system developed for E80 Group to manage LGV (
 - **Mesa** – Multi-agent simulation library for behavior modeling and testing.
 
 ### Algorithms
-- **A* Search Algorithm** – High-efficiency pathfinding with dynamic route optimization.
-- **Dijkstra’s *Algorithm** – Optimal shortest-path routing for weighted graphs with guaranteed minimum cost.
+- A* Search Algorithm – High-efficiency pathfinding with dynamic route optimization.
+- Dijkstra’s Algorithm – Optimal shortest-path routing for weighted graphs with guaranteed minimum cost.
 
 
 
