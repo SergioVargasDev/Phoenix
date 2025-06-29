@@ -5,7 +5,7 @@ Phoenix is a warehouse automation system developed for E80 Group to manage LGV (
 ## Features
 
 - **Autonomous LGV Workflows**: End-to-end automation of unloading, storage, and truck reloading.
-- **Intelligent Pathfinding**: Optimized A* search with conflict avoidance and dynamic agent awareness.
+- **Intelligent Pathfinding**: Optimized A* and Dijkstra pathfinding algorithms with conflict avoidance and dynamic agent awareness.
 - **Multi-Agent Behavior Simulation**: Mesa-powered modeling for coordination and scenario testing.
 - **Real-Time 3D Simulation**: Unity-based visualization of warehouse operations and LGV behavior.
 - **Configurable Scenarios**: Customizable warehouse layouts and LGV parameters.
@@ -24,6 +24,9 @@ Phoenix is a warehouse automation system developed for E80 Group to manage LGV (
 
 ### Algorithms
 - **A* Search Algorithm** – High-efficiency pathfinding with dynamic route optimization.
+- **Dijkstra’s Algorithm** – Optimal shortest-path routing for weighted graphs with guaranteed minimum cost.
+
+
 
 ## Installation
 
