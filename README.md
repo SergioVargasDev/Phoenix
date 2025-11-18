@@ -82,7 +82,7 @@ The simulation can be customized through the web interface sliders:
 ### File Structure
 
 ```
-phoenix-warehouse/
+phoenix/
 ├── agent.py          # LGV, Shelf, Truck, and Package agent definitions
 ├── model.py          # Main warehouse simulation model
 ├── server.py         # Mesa visualization server
